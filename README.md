@@ -28,3 +28,13 @@ The customer can sign in/sign up with Google for the tour packages. Customers ca
 🍧 MONGODB <br/>
 🍧 HEROKU <br/>
 🍧 FIREBASE <br/>
+
+![image](public/images/travel%20agency-1.jpg)
+
+<hr>
+
+![image](public/images/travel%20agency-2.jpg)
+
+<hr>
+
+![image](public/images/travel%20agency-3.jpg)
